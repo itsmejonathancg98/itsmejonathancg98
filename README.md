@@ -8,6 +8,7 @@ Proficient Software Engineer with a robust educational background and a fervent 
 - 🌐 Strong advocate for clean, maintainable, and scalable code
 
 ## Skills
+
 - **Languages:**
   - Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png)
   - Kotlin ![Kotlin Icon](https://img.icons8.com/color/48/000000/kotlin.png)
@@ -36,16 +37,39 @@ Proficient Software Engineer with a robust educational background and a fervent 
   - GraphQL ![GraphQL Icon](https://img.icons8.com/color/48/000000/graphql.png)
   - Docker ![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)
 
-- **Design Tools:** AdobeXD, Figma
-- **IDEs/Editors:** VSCode, XCode, Atom
-- **JavaScript Runtime:** Node.js
-- **API Testing:** Postman
-- **Version Control:** Git
-- **CI/CD:** Github Actions
-- **NLP:** Spacy
-- **Data Visualization:** Matplotlib
-- **Machine Learning:** Tensorflow
-- **Cloud Platform:** Google Cloud Platform
+- **Design Tools:**
+  - AdobeXD ![AdobeXD Icon](https://img.icons8.com/color/48/000000/adobe-xd.png)
+  - Figma ![Figma Icon](https://img.icons8.com/color/48/000000/figma.png)
+
+- **IDEs/Editors:**
+  - VSCode ![VSCode Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png)
+  - XCode ![XCode Icon](https://img.icons8.com/color/48/000000/xcode.png)
+  - Atom ![Atom Icon](https://img.icons8.com/color/48/000000/atom-editor.png)
+
+- **JavaScript Runtime:**
+  - Node.js ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+
+- **API Testing:**
+  - Postman ![Postman Icon](https://img.icons8.com/color/48/000000/postman.png)
+
+- **Version Control:**
+  - Git ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+
+- **CI/CD:**
+  - Github Actions ![GitHub Actions Icon](https://img.icons8.com/color/48/000000/github.png)
+
+- **NLP:**
+  - Spacy ![Spacy Icon](https://img.icons8.com/color/48/000000/python.png) <!-- Note: Using Python icon as there's no specific Spacy icon -->
+
+- **Data Visualization:**
+  - Matplotlib ![Matplotlib Icon](https://img.icons8.com/color/48/000000/line-chart.png)
+
+- **Machine Learning:**
+  - Tensorflow ![Tensorflow Icon](https://img.icons8.com/color/48/000000/tensorflow.png)
+
+- **Cloud Platform:**
+  - Google Cloud Platform ![GCP Icon](https://img.icons8.com/color/48/000000/google-cloud.png)
+
 
 
 ## Connect with Me
